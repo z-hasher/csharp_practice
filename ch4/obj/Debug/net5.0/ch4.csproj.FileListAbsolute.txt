@@ -1,0 +1,15 @@
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.csprojAssemblyReference.cache
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.AssemblyInfoInputs.cache
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.AssemblyInfo.cs
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.csproj.CoreCompileInputs.cache
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ch4.deps.json
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ch4.runtimeconfig.json
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ch4.runtimeconfig.dev.json
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ch4.dll
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ref/ch4.dll
+/Users/wzheng/csharp_practice/ch4/bin/Debug/net5.0/ch4.pdb
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.dll
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ref/ch4.dll
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.pdb
+/Users/wzheng/csharp_practice/ch4/obj/Debug/net5.0/ch4.genruntimeconfig.cache

@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# folders
+**/obj
+**/bin
+**/*.csproj

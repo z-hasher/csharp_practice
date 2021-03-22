@@ -32,6 +32,8 @@
 *.app
 
 # folders
-**/obj/*
-**/bin/*
+**/obj/**
+**/bin/**
 **/*.csproj
+
+ch4/obj
